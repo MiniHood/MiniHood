@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MiniHood</h1>
 <h3 align="center">A passionate full stack developer from Northern Ireland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minihood&label=Profile%20views&color=0e75b6&style=flat" alt="minihood" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minihood&label=Profile%20views&color=0e75b6&style=flat" alt="minihood" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minihood" alt="minihood" /></a> </p>
 
