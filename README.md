@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm MiniHood</h1>
 <h3 align="center">A passionate full stack developer from Northern Ireland</h3>
 
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1060278032738308148/1101562765639950466/New_Project_7.png" alt="minihood" /> </p>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minihood&label=Profile%20views&color=0e75b6&style=flat" alt="minihood" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minihood" alt="minihood" /></a> </p>
