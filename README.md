@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MiniHood</h1>
-<h3 align="center">A passionate full stack developer from Northern Ireland</h3>
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">A full stack developer from Northern Ireland</h3>
 
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/1060278032738308148/1101562765639950466/New_Project_7.png" alt="minihood" /> </p>
 
