@@ -10,13 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Menuss](https://github.com/MiniHood/ComplianceAI)
+- 🔭 I’m currently working on [UPlus]([https://github.com/MiniHood/ComplianceAI](https://github.com/MiniHood/U-Plus))
 
-- 🌱 I’m currently learning **Lua and C++!**
+- 🌱 I'm currently learning C++
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **HowNiceOfYou#2985**
+- 📫 You can reach me in discord, my username is **howniceofyou**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
