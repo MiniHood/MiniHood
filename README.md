@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GPlus V2]([https://github.com/MiniHood/G-Plus/tree/v2))
+- 🔭 I’m currently working on [UPlus](https://github.com/MiniHood/U-Plus)
 
 - 🌱 I'm currently learning C++
 
