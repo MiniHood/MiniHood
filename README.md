@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GPlusV2](https://github.com/MiniHood/G-Plus/tree/v2)
-
-- 🌱 I'm currently learning C++
+- 🔭 I’m currently working on [KAT FiveM Medical System](https://github.com/MiniHood/KAT-Medical-FiveM)
 
 - 📫 You can reach me in discord, my username is **howniceofyou**
 
