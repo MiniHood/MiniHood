@@ -40,14 +40,6 @@ const adam = {
     currentlyLearning: ["Advanced Rust", "Game Engine Development"],
     hobbies: ["Gaming 🎮", "Tech Exploration 💻", "System Architecture 🏗️"]
 };
-
-// Life Loop
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
 ```
 
 <div align="center">
