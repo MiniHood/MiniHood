@@ -146,7 +146,7 @@ while(alive) {
 <br/><br/>
 
 <!-- Animated Skill Bars -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@minihood&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&layout=compact" alt="Coding Activity" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=minihood&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&layout=compact" alt="Coding Activity" />
 
 </div>
 
