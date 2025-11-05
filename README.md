@@ -210,7 +210,7 @@ const adam = {
 <a href="https://www.youtube.com/c/howniceofyou" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/clife" target="_blank">
+<a href="https://discord.gg/MV3PDGaqfx" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
 </a>
 <a href="https://github.com/minihood" target="_blank">
